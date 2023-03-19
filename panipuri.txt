@@ -1,1 +1,1 @@
-some content to have merge conflict. Hello World.
+some content to have merge conflict. Hello people.
